@@ -1,0 +1,30 @@
+body
+{
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.colorBtn
+{
+	border-radius :7px;
+	color: rgb(0,1,5); 
+	text-transform: capitalize;
+	cursor: pointer;
+	outline: none;
+}
+
+.colorBtn:hover
+{
+	background: rgb(238,130,238);
+
+}
+
+.myclass
+{
+	text-transform: capitalize;
+	cursor: pointer;
+	border-radius :7px;
+}
